@@ -1,6 +1,7 @@
 <div class="container">
-  <h2>Data Mahasiswa</h2>
-  <table class="table text-uppercase table-bordered">
+        <center><h2>Data Pendaftar</h2></center>
+		<br>
+		<table class="table"border="1" width="100%">
       <thead>
           <tr class="table-primary">
               <th>No</th>
